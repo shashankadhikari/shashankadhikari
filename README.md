@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shashankadhikari
 - 👀 I’m interested in converting ideas to application.
-- 🌱 I’m currently learning react JS in depth.
+- 🌱 I’m currently working with react JS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 shashankforservice@gmail.com shashank.adhikari4152@gmail.com
 
 <!---
 shashankadhikari/shashankadhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
